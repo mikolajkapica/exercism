@@ -1,0 +1,19 @@
+2023-08-02T17:21:42+00:00 fedora#01 I: Start test hamming tests:0:empty strands.
+2023-08-02T17:21:42+00:00 fedora#01 E: Test hamming tests:0:empty strands has failed.
+2023-08-02T17:21:42+00:00 fedora#01 E: expected: Ok 0 but got: Error "left strand must not be empty" in test hamming tests:0:empty strands.
+2023-08-02T17:21:42+00:00 fedora#01 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2023-08-02T17:21:42+00:00 fedora#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2023-08-02T17:21:42+00:00 fedora#01 E: 
+2023-08-02T17:21:42+00:00 fedora#01 I: End test hamming tests:0:empty strands.
+2023-08-02T17:21:42+00:00 fedora#01 I: Start test hamming tests:2:single letter different strands.
+2023-08-02T17:21:42+00:00 fedora#01 I: Test hamming tests:2:single letter different strands is successful.
+2023-08-02T17:21:42+00:00 fedora#01 I: End test hamming tests:2:single letter different strands.
+2023-08-02T17:21:42+00:00 fedora#01 I: Start test hamming tests:3:long identical strands.
+2023-08-02T17:21:42+00:00 fedora#01 I: Test hamming tests:3:long identical strands is successful.
+2023-08-02T17:21:42+00:00 fedora#01 I: End test hamming tests:3:long identical strands.
+2023-08-02T17:21:42+00:00 fedora#01 I: Start test hamming tests:5:disallow first strand longer.
+2023-08-02T17:21:42+00:00 fedora#01 I: Test hamming tests:5:disallow first strand longer is successful.
+2023-08-02T17:21:42+00:00 fedora#01 I: End test hamming tests:5:disallow first strand longer.
+2023-08-02T17:21:42+00:00 fedora#01 I: Start test hamming tests:7:disallow left empty strand.
+2023-08-02T17:21:42+00:00 fedora#01 I: Test hamming tests:7:disallow left empty strand is successful.
+2023-08-02T17:21:42+00:00 fedora#01 I: End test hamming tests:7:disallow left empty strand.
