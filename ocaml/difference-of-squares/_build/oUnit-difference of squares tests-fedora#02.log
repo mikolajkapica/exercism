@@ -1,0 +1,12 @@
+2023-08-02T16:26:25+00:00 fedora#02 I: Start test difference of squares tests:1:square of sum 5.
+2023-08-02T16:26:25+00:00 fedora#02 I: Test difference of squares tests:1:square of sum 5 is successful.
+2023-08-02T16:26:25+00:00 fedora#02 I: End test difference of squares tests:1:square of sum 5.
+2023-08-02T16:26:25+00:00 fedora#02 I: Start test difference of squares tests:3:sum of squares 1.
+2023-08-02T16:26:25+00:00 fedora#02 I: Test difference of squares tests:3:sum of squares 1 is successful.
+2023-08-02T16:26:25+00:00 fedora#02 I: End test difference of squares tests:3:sum of squares 1.
+2023-08-02T16:26:25+00:00 fedora#02 I: Start test difference of squares tests:5:sum of squares 100.
+2023-08-02T16:26:25+00:00 fedora#02 I: Test difference of squares tests:5:sum of squares 100 is successful.
+2023-08-02T16:26:25+00:00 fedora#02 I: End test difference of squares tests:5:sum of squares 100.
+2023-08-02T16:26:25+00:00 fedora#02 I: Start test difference of squares tests:8:difference of squares 100.
+2023-08-02T16:26:25+00:00 fedora#02 I: Test difference of squares tests:8:difference of squares 100 is successful.
+2023-08-02T16:26:25+00:00 fedora#02 I: End test difference of squares tests:8:difference of squares 100.
