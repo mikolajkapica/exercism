@@ -1,0 +1,12 @@
+2023-08-02T16:12:27+00:00 fedora#02 I: Start test leap tests:1:year divisible by 2, not divisible by 4 in common year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Test leap tests:1:year divisible by 2, not divisible by 4 in common year is successful.
+2023-08-02T16:12:27+00:00 fedora#02 I: End test leap tests:1:year divisible by 2, not divisible by 4 in common year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Start test leap tests:3:year divisible by 4 and 5 is still a leap year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Test leap tests:3:year divisible by 4 and 5 is still a leap year is successful.
+2023-08-02T16:12:27+00:00 fedora#02 I: End test leap tests:3:year divisible by 4 and 5 is still a leap year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Start test leap tests:6:year divisible by 400 is leap year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Test leap tests:6:year divisible by 400 is leap year is successful.
+2023-08-02T16:12:27+00:00 fedora#02 I: End test leap tests:6:year divisible by 400 is leap year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Start test leap tests:8:year divisible by 200, not divisible by 400 in common year.
+2023-08-02T16:12:27+00:00 fedora#02 I: Test leap tests:8:year divisible by 200, not divisible by 400 in common year is successful.
+2023-08-02T16:12:27+00:00 fedora#02 I: End test leap tests:8:year divisible by 200, not divisible by 400 in common year.
