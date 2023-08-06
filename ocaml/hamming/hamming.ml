@@ -7,8 +7,7 @@ type nucleotide = A | C | G | T
 (*     | (_, 0) -> Error "right strand must not be empty" *)
 (*     | (_)    -> Error "left and right strands must be of equal length" *)
 
-
-
+(* wayyyy better *)
 let hamming_distance (a: nucleotide list) (b: nucleotide list) =
     match ( List.length a, List.length b ) with
     | (x, y) when x == y -> List.fold_left (fun acc (x, y) -> if x == y then acc else acc + 1) 0 (List.combine a b) |> Result.ok
