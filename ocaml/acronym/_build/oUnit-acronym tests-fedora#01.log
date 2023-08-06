@@ -1,0 +1,111 @@
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:0:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:0:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:0:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:2:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:2:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:2:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:4:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:4:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:4:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:6:consecutive delimiters.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:6:consecutive delimiters is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:6:consecutive delimiters.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:8:underscore emphasis.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:8:underscore emphasis is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:8:underscore emphasis.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:9:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:9:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:9:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:11:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:11:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:11:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:13:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:13:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:13:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:16:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:16:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:16:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:18:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:18:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:18:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:20:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:20:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:20:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:22:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:22:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:22:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:25:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:25:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:25:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:27:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:27:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:27:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:29:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:29:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:29:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:31:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:31:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:31:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:34:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:34:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:34:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:36:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:36:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:36:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:38:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:38:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:38:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:40:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:40:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:40:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:43:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:43:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:43:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:45:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:45:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:45:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:47:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:47:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:47:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:49:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:49:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:49:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:51:consecutive delimiters.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:51:consecutive delimiters is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:51:consecutive delimiters.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:54:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:54:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:54:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:56:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:56:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:56:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:59:very long abbreviation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:59:very long abbreviation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:59:very long abbreviation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:61:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:61:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:61:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:63:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:63:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:63:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:65:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:65:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:65:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:67:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:67:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:67:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:70:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:70:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:70:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:72:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:72:basic is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:72:basic.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:74:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:74:punctuation is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:74:punctuation.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:76:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:76:punctuation without whitespace is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:76:punctuation without whitespace.
+2023-08-06T18:56:46+00:00 fedora#01 I: Start test acronym tests:79:apostrophes.
+2023-08-06T18:56:46+00:00 fedora#01 I: Test acronym tests:79:apostrophes is successful.
+2023-08-06T18:56:46+00:00 fedora#01 I: End test acronym tests:79:apostrophes.
