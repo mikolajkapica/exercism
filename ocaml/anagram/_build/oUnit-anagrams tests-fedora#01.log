@@ -1,0 +1,30 @@
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:0:no matches.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:0:no matches is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:0:no matches.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:2:detects two anagrams.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:2:detects two anagrams is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:2:detects two anagrams.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:4:detects anagram.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:4:detects anagram is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:4:detects anagram.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:6:detects multiple anagrams with different case.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:6:detects multiple anagrams with different case is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:6:detects multiple anagrams with different case.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:8:detects anagrams case-insensitively.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:8:detects anagrams case-insensitively is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:8:detects anagrams case-insensitively.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:10:detects anagrams using case-insensitive possible matches.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:10:detects anagrams using case-insensitive possible matches is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:10:detects anagrams using case-insensitive possible matches.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:12:anagrams must use all letters exactly once.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:12:anagrams must use all letters exactly once is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:12:anagrams must use all letters exactly once.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:13:words are not anagrams of themselves (case-insensitive).
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:13:words are not anagrams of themselves (case-insensitive) is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:13:words are not anagrams of themselves (case-insensitive).
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:15:words are not anagrams of themselves even if letter case is partially different.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:15:words are not anagrams of themselves even if letter case is partially different is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:15:words are not anagrams of themselves even if letter case is partially different.
+2023-08-06T22:36:20+00:00 fedora#01 I: Start test anagrams tests:17:words other than themselves can be anagrams.
+2023-08-06T22:36:20+00:00 fedora#01 I: Test anagrams tests:17:words other than themselves can be anagrams is successful.
+2023-08-06T22:36:20+00:00 fedora#01 I: End test anagrams tests:17:words other than themselves can be anagrams.

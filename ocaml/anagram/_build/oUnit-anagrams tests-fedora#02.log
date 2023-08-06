@@ -1,0 +1,27 @@
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:1:detects two anagrams.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:1:detects two anagrams is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:1:detects two anagrams.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:3:does not detect anagram subsets.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:3:does not detect anagram subsets is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:3:does not detect anagram subsets.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:5:detects three anagrams.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:5:detects three anagrams is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:5:detects three anagrams.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:7:does not detect non-anagrams with identical checksum.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:7:does not detect non-anagrams with identical checksum is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:7:does not detect non-anagrams with identical checksum.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:9:detects anagrams using case-insensitive subject.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:9:detects anagrams using case-insensitive subject is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:9:detects anagrams using case-insensitive subject.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:11:does not detect an anagram if the original word is repeated.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:11:does not detect an anagram if the original word is repeated is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:11:does not detect an anagram if the original word is repeated.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:14:words are not anagrams of themselves.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:14:words are not anagrams of themselves is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:14:words are not anagrams of themselves.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:16:words are not anagrams of themselves even if letter case is completely different.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:16:words are not anagrams of themselves even if letter case is completely different is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:16:words are not anagrams of themselves even if letter case is completely different.
+2023-08-06T22:36:20+00:00 fedora#02 I: Start test anagrams tests:18:words other than themselves can be anagrams.
+2023-08-06T22:36:20+00:00 fedora#02 I: Test anagrams tests:18:words other than themselves can be anagrams is successful.
+2023-08-06T22:36:20+00:00 fedora#02 I: End test anagrams tests:18:words other than themselves can be anagrams.
