@@ -1,0 +1,147 @@
+# dune run
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /home/nick/Desktop/exercism/ocaml/nucleotide-count
+# Auto-detected concurrency: 4
+$ /home/nick/.opam/default/bin/ocamlc.opt -config > /tmp/dune_808a24_output
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; for_host = None
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; ocaml_bin = External "/home/nick/.opam/default/bin"
+#  ; ocaml = Ok External "/home/nick/.opam/default/bin/ocaml"
+#  ; ocamlc = External "/home/nick/.opam/default/bin/ocamlc.opt"
+#  ; ocamlopt = Ok External "/home/nick/.opam/default/bin/ocamlopt.opt"
+#  ; ocamldep = Ok External "/home/nick/.opam/default/bin/ocamldep.opt"
+#  ; ocamlmklib = Ok External "/home/nick/.opam/default/bin/ocamlmklib.opt"
+#  ; env =
+#      map
+#        { "DUNE_OCAML_HARDCODED" :
+#            "/home/nick/.opam/default/lib/ocaml:/home/nick/.opam/default/lib"
+#        ; "DUNE_OCAML_STDLIB" : "/home/nick/.opam/default/lib/ocaml"
+#        ; "DUNE_SOURCEROOT" :
+#            "/home/nick/Desktop/exercism/ocaml/nucleotide-count"
+#        ; "INSIDE_DUNE" :
+#            "/home/nick/Desktop/exercism/ocaml/nucleotide-count/_build/default"
+#        ; "OCAMLFIND_IGNORE_DUPS_IN" :
+#            "/home/nick/Desktop/exercism/ocaml/nucleotide-count/_build/install/default/lib"
+#        ; "OCAMLPATH" :
+#            "/home/nick/Desktop/exercism/ocaml/nucleotide-count/_build/install/default/lib"
+#        ; "OCAMLTOP_INCLUDE_PATH" :
+#            "/home/nick/Desktop/exercism/ocaml/nucleotide-count/_build/install/default/lib/toplevel"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; findlib_paths =
+#      [ External "/home/nick/.opam/default/lib/ocaml"
+#      ; External "/home/nick/.opam/default/lib"
+#      ]
+#  ; natdynlink_supported = true
+#  ; supports_shared_libraries = true
+#  ; ocaml_config =
+#      { version = "5.0.0"
+#      ; standard_library_default = "/home/nick/.opam/default/lib/ocaml"
+#      ; standard_library = "/home/nick/.opam/default/lib/ocaml"
+#      ; standard_runtime = "the_standard_runtime_variable_was_deleted"
+#      ; ccomp_type = "cc"
+#      ; c_compiler = "gcc"
+#      ; ocamlc_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread"; "-fPIC" ]
+#      ; ocamlc_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; ocamlopt_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread"; "-fPIC" ]
+#      ; ocamlopt_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; bytecomp_c_compiler =
+#          [ "gcc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-fPIC"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; bytecomp_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_c_compiler =
+#          [ "gcc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-fPIC"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; native_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_pack_linker = [ "ld"; "-r"; "-o" ]
+#      ; cc_profile = []
+#      ; architecture = "amd64"
+#      ; model = "default"
+#      ; int_size = 63
+#      ; word_size = 64
+#      ; system = "linux"
+#      ; asm = [ "as" ]
+#      ; asm_cfi_supported = true
+#      ; with_frame_pointers = false
+#      ; ext_exe = ""
+#      ; ext_obj = ".o"
+#      ; ext_asm = ".s"
+#      ; ext_lib = ".a"
+#      ; ext_dll = ".so"
+#      ; os_type = "Unix"
+#      ; default_executable_name = "a.out"
+#      ; systhread_supported = true
+#      ; host = "x86_64-pc-linux-gnu"
+#      ; target = "x86_64-pc-linux-gnu"
+#      ; profiling = false
+#      ; flambda = false
+#      ; spacetime = false
+#      ; safe_string = true
+#      ; exec_magic_number = "Caml1999X032"
+#      ; cmi_magic_number = "Caml1999I032"
+#      ; cmo_magic_number = "Caml1999O032"
+#      ; cma_magic_number = "Caml1999A032"
+#      ; cmx_magic_number = "Caml1999Y032"
+#      ; cmxa_magic_number = "Caml1999Z032"
+#      ; ast_impl_magic_number = "Caml1999M032"
+#      ; ast_intf_magic_number = "Caml1999N032"
+#      ; cmxs_magic_number = "Caml1999D032"
+#      ; cmt_magic_number = "Caml1999T032"
+#      ; natdynlink_supported = true
+#      ; supports_shared_libraries = true
+#      ; windows_unicode = false
+#      }
+#  }
+$ (cd _build/default && /home/nick/.opam/default/bin/ocamldep.opt -modules -impl nucleotide_count.ml) > _build/default/.test.eobjs/nucleotide_count.impl.d
+$ (cd _build/default && /home/nick/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs -warn-error -A -g -I .test.eobjs/byte -I .test.eobjs/native -I /home/nick/.opam/default/lib/base -I /home/nick/.opam/default/lib/base/base_internalhash_types -I /home/nick/.opam/default/lib/base/caml -I /home/nick/.opam/default/lib/base/shadow_stdlib -I /home/nick/.opam/default/lib/ocaml/unix -I /home/nick/.opam/default/lib/ounit2 -I /home/nick/.opam/default/lib/ounit2/advanced -I /home/nick/.opam/default/lib/seq -I /home/nick/.opam/default/lib/sexplib0 -I /home/nick/.opam/default/lib/stdlib-shims -intf-suffix .ml -no-alias-deps -opaque -o .test.eobjs/native/nucleotide_count.cmx -c -impl nucleotide_count.ml)
+> File "nucleotide_count.ml", line 1:
+> Error: The implementation nucleotide_count.ml
+>        does not match the interface .test.eobjs/byte/nucleotide_count.cmi: 
+>        Values do not match:
+>          val count_nucleotides :
+>            string ->
+>            ((char, (int, 'a) result, Base.Char.comparator_witness) Base.Map.t,
+>             'b)
+>            result
+>        is not included in
+>          val count_nucleotides :
+>            string -> (int Base.Map.M(Base.Char).t, char) result
+>        The type
+>          string ->
+>          ((char, (int, 'a) result, Base.Char.comparator_witness) Base.Map.t,
+>           'b)
+>          result
+>        is not compatible with the type
+>          string -> (int Base.Map.M(Base.Char).t, char) result
+>        Type (char, (int, 'a) result, Base.Char.comparator_witness) Base.Map.t
+>        is not compatible with type
+>          int Base.Map.M(Base.Char).t =
+>            (char, int, Base.Char.comparator_witness) Base.Map.t 
+>        Type (int, 'a) result is not compatible with type int 
+>        File "nucleotide_count.mli", line 7, characters 0-68:
+>          Expected declaration
+>        File "nucleotide_count.ml", line 13, characters 4-21:
+>          Actual declaration
+[2]
