@@ -1,21 +1,9 @@
 open Base
 
-type bst = 
+type t = 
     | Empty 
-    | Node of bst * int * bst
+    | Node of t * int * t
 
-let to_list bst = 
-    let list = ref [] in
-    let rec in_order node =
-        match node with
-        | Empty -> ()
-        | Node (left, value, right) ->
-                in_order left;
-                list := value :: !list;
-                in_order right;
-    in
-    in_order bst;
-    List.rev !list
 
 let empty = Empty
 
@@ -37,3 +25,25 @@ let rec insert value = function
             match value > v with
             | true  -> Node (l, v, insert value r)
             | false -> Node (insert value l, v, r)
+
+let to_list t = 
+    let list = ref [] in
+    let rec in_order node =
+        match node with
+        | Empty -> ()
+        | Node (left, value, right) ->
+                in_order left;
+                list := value :: !list;
+                in_order right;
+    in
+    in_order t;
+    List.rev !list
+
+(** nicer solution - https://exercism.org/tracks/ocaml/exercises/binary-search-tree/solutions/bcc32*)
+(* let to_list t =  *)
+(*     let rec loop acc = function *)
+(*         | Empty -> acc *)
+(*         | Node (l, v, r) -> loop (v :: loop acc r) l *)
+(*     in *)
+(*     loop [] t *)
+
