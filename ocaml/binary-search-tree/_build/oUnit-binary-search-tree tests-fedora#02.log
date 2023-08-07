@@ -1,0 +1,27 @@
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:1:smaller number at left node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:3:same number at left node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:5:greater number at right node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:7:can create complex tree 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:9:can create complex tree 3 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:11:can create complex tree 5 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:13:can create complex tree 7 is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:15:can sort if second number is smaller than first is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:18:can sort complex tree is successful.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:18:can sort complex tree.

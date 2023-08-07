@@ -1,0 +1,192 @@
+2023-08-07T00:21:26+00:00 fedora#00 I: Runner: processes
+2023-08-07T00:21:26+00:00 fedora#00 I: Chooser: simple
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration suite_name = "binary-search-tree tests"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration cache_filename = "/home/nick/Desktop/exercism/ocaml/binary-search-tree/_build/oUnit-$(suite_name).cache"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration run_gc_full_major = "true"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration display = "true"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration results_style_1_X = "false"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration testdata_dir = "none"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration health_check_interval = "1."
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration verbose = "false"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration chooser = "simple"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration output_html_dir = "none"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration processes_kill_period = "5."
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration runner = "processes"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration shards = "2"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration processes_grace_period = "5."
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration log_encoding = "utf-8"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration output_junit_file = "none"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration ci = "false"
+2023-08-07T00:21:26+00:00 fedora#00 I: Configuration output_file = "/home/nick/Desktop/exercism/ocaml/binary-search-tree/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-08-07T00:21:26+00:00 fedora#00 I: Using 2 workers maximum.
+2023-08-07T00:21:26+00:00 fedora#00 I: Starting worker number fedora#01.
+2023-08-07T00:21:26+00:00 fedora#00 I: Worker fedora#01 started.
+2023-08-07T00:21:26+00:00 fedora#00 I: Starting worker number fedora#02.
+2023-08-07T00:21:26+00:00 fedora#00 I: Worker fedora#02 started.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:1:smaller number at left node 1, binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:1:smaller number at left node 1, binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:1:smaller number at left node 1, binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:0:data is retained is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:1:smaller number at left node 1, binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:1:smaller number at left node 1, binary-search-tree tests:0:data is retained.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:2:smaller number at left node 2, binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:2:smaller number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:2:smaller number at left node 2, binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:1:smaller number at left node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:2:smaller number at left node 2, binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:2:smaller number at left node 2, binary-search-tree tests:1:smaller number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:3:same number at left node 1, binary-search-tree tests:2:smaller number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:3:same number at left node 1, binary-search-tree tests:2:smaller number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:2:smaller number at left node 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:3:same number at left node 1, binary-search-tree tests:2:smaller number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:2:smaller number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:3:same number at left node 1, binary-search-tree tests:2:smaller number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:4:same number at left node 2, binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:4:same number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:4:same number at left node 2, binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:3:same number at left node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:4:same number at left node 2, binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:4:same number at left node 2, binary-search-tree tests:3:same number at left node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:5:greater number at right node 1, binary-search-tree tests:4:same number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:5:greater number at right node 1, binary-search-tree tests:4:same number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:4:same number at left node 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:5:greater number at right node 1, binary-search-tree tests:4:same number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:4:same number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:5:greater number at right node 1, binary-search-tree tests:4:same number at left node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:6:greater number at right node 2, binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:6:greater number at right node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:6:greater number at right node 2, binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:5:greater number at right node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:6:greater number at right node 2, binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:6:greater number at right node 2, binary-search-tree tests:5:greater number at right node 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:7:can create complex tree 1, binary-search-tree tests:6:greater number at right node 2.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:7:can create complex tree 1, binary-search-tree tests:6:greater number at right node 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:6:greater number at right node 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:7:can create complex tree 1, binary-search-tree tests:6:greater number at right node 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:6:greater number at right node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:7:can create complex tree 1, binary-search-tree tests:6:greater number at right node 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:8:can create complex tree 2, binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:8:can create complex tree 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:8:can create complex tree 2, binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:7:can create complex tree 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:8:can create complex tree 2, binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:8:can create complex tree 2, binary-search-tree tests:7:can create complex tree 1.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:9:can create complex tree 3, binary-search-tree tests:8:can create complex tree 2.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:9:can create complex tree 3, binary-search-tree tests:8:can create complex tree 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:8:can create complex tree 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:9:can create complex tree 3, binary-search-tree tests:8:can create complex tree 2.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:8:can create complex tree 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:9:can create complex tree 3, binary-search-tree tests:8:can create complex tree 2.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:10:can create complex tree 4, binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:10:can create complex tree 4.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:10:can create complex tree 4, binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:9:can create complex tree 3 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:10:can create complex tree 4, binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:10:can create complex tree 4, binary-search-tree tests:9:can create complex tree 3.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:11:can create complex tree 5, binary-search-tree tests:10:can create complex tree 4.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:11:can create complex tree 5, binary-search-tree tests:10:can create complex tree 4.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:10:can create complex tree 4 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:11:can create complex tree 5, binary-search-tree tests:10:can create complex tree 4.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:10:can create complex tree 4.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:11:can create complex tree 5, binary-search-tree tests:10:can create complex tree 4.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:12:can create complex tree 6, binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:12:can create complex tree 6.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:12:can create complex tree 6, binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:11:can create complex tree 5 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:12:can create complex tree 6, binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:12:can create complex tree 6, binary-search-tree tests:11:can create complex tree 5.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:12:can create complex tree 6 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:13:can create complex tree 7, binary-search-tree tests:12:can create complex tree 6.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:12:can create complex tree 6.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:13:can create complex tree 7, binary-search-tree tests:12:can create complex tree 6.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:14:can sort single number, binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:14:can sort single number.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:14:can sort single number, binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:13:can create complex tree 7 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:14:can sort single number, binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:14:can sort single number is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:14:can sort single number, binary-search-tree tests:13:can create complex tree 7.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:14:can sort single number.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:15:can sort if second number is smaller than first, binary-search-tree tests:14:can sort single number.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:16:can sort if second number is same as first, binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:16:can sort if second number is same as first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:16:can sort if second number is same as first, binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:16:can sort if second number is same as first is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:16:can sort if second number is same as first, binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:15:can sort if second number is smaller than first is successful.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:16:can sort if second number is same as first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:16:can sort if second number is same as first, binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:17:can sort if second number is greater than first, binary-search-tree tests:15:can sort if second number is smaller than first.
+2023-08-07T00:21:26+00:00 fedora#01 I: Start test binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: Still 2 tests running : binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#02 I: Start test binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#00 I: Still 2 tests running : binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#01 I: Test binary-search-tree tests:17:can sort if second number is greater than first is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Still 2 tests running : binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#01 I: End test binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: Still 2 tests running : binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#00 I: 2 tests running: binary-search-tree tests:18:can sort complex tree, binary-search-tree tests:17:can sort if second number is greater than first.
+2023-08-07T00:21:26+00:00 fedora#02 I: Test binary-search-tree tests:18:can sort complex tree is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Still 1 tests running : binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#00 I: 1 tests running: binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#02 I: End test binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#00 I: Still 1 tests running : binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#00 I: 1 tests running: binary-search-tree tests:18:can sort complex tree.
+2023-08-07T00:21:26+00:00 fedora#00 I: 0 tests running: .
+2023-08-07T00:21:26+00:00 fedora#00 I: Worker fedora#01 has ended.
+2023-08-07T00:21:26+00:00 fedora#00 I: Worker fedora#02 has ended.
+2023-08-07T00:21:26+00:00 fedora#00 I: Used 2 worker during test execution.
+2023-08-07T00:21:26+00:00 fedora#00 I: Run 9 tests with shard fedora#02.
+2023-08-07T00:21:26+00:00 fedora#00 I: Run 10 tests with shard fedora#01.
+2023-08-07T00:21:26+00:00 fedora#00 I: Check health of shard fedora#02, 1 times.
+2023-08-07T00:21:26+00:00 fedora#00 I: Check health of shard fedora#01, 3 times.
+2023-08-07T00:21:26+00:00 fedora#00 I: ==============
+2023-08-07T00:21:26+00:00 fedora#00 I: Summary:
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:18:can sort complex tree is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:17:can sort if second number is greater than first is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:15:can sort if second number is smaller than first is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:16:can sort if second number is same as first is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:14:can sort single number is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:13:can create complex tree 7 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:12:can create complex tree 6 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:11:can create complex tree 5 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:10:can create complex tree 4 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:9:can create complex tree 3 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:8:can create complex tree 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:7:can create complex tree 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:6:greater number at right node 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:5:greater number at right node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:4:same number at left node 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:3:same number at left node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:2:smaller number at left node 2 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:1:smaller number at left node 1 is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Test binary-search-tree tests:0:data is retained is successful.
+2023-08-07T00:21:26+00:00 fedora#00 I: Ran: 19 tests in: 0.11 seconds.
+2023-08-07T00:21:26+00:00 fedora#00 I: Cases: 19.
+2023-08-07T00:21:26+00:00 fedora#00 I: Tried: 19.
+2023-08-07T00:21:26+00:00 fedora#00 I: Errors: 0.
+2023-08-07T00:21:26+00:00 fedora#00 I: Failures: 0.
+2023-08-07T00:21:26+00:00 fedora#00 I: Skip: 0.
+2023-08-07T00:21:26+00:00 fedora#00 I: Todo: 0.
+2023-08-07T00:21:26+00:00 fedora#00 I: Timeout: 0.
