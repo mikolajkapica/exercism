@@ -1,0 +1,39 @@
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:0:stating something.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:0:stating something is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:0:stating something.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:2:shouting gibberish.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:2:shouting gibberish is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:2:shouting gibberish.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:4:asking a numeric question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:4:asking a numeric question is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:4:asking a numeric question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:6:talking forcefully.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:6:talking forcefully is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:6:talking forcefully.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:8:forceful question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:8:forceful question is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:8:forceful question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:10:no letters.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:10:no letters is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:10:no letters.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:12:shouting with special characters.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:12:shouting with special characters is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:12:shouting with special characters.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:15:non-letters with question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:15:non-letters with question is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:15:non-letters with question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:16:prattling on.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:16:prattling on is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:16:prattling on.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:19:alternate silence.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:19:alternate silence is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:19:alternate silence.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:20:multiple line question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:20:multiple line question is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:20:multiple line question.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:23:other whitespace.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:23:other whitespace is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:23:other whitespace.
+2023-08-07T22:11:13+00:00 fedora#01 I: Start test bob tests:24:non-question ending with whitespace.
+2023-08-07T22:11:13+00:00 fedora#01 I: Test bob tests:24:non-question ending with whitespace is successful.
+2023-08-07T22:11:13+00:00 fedora#01 I: End test bob tests:24:non-question ending with whitespace.

@@ -1,0 +1,36 @@
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:1:shouting.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:1:shouting is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:1:shouting.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:3:asking a question.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:3:asking a question is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:3:asking a question.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:5:asking gibberish.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:5:asking gibberish is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:5:asking gibberish.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:7:using acronyms in regular speech.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:7:using acronyms in regular speech is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:7:using acronyms in regular speech.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:9:shouting numbers.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:9:shouting numbers is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:9:shouting numbers.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:11:question with no letters.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:11:question with no letters is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:11:question with no letters.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:13:shouting with no exclamation mark.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:13:shouting with no exclamation mark is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:13:shouting with no exclamation mark.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:14:statement containing question mark.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:14:statement containing question mark is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:14:statement containing question mark.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:17:silence.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:17:silence is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:17:silence.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:18:prolonged silence.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:18:prolonged silence is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:18:prolonged silence.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:21:starting with whitespace.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:21:starting with whitespace is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:21:starting with whitespace.
+2023-08-07T22:11:13+00:00 fedora#02 I: Start test bob tests:22:ending with whitespace.
+2023-08-07T22:11:13+00:00 fedora#02 I: Test bob tests:22:ending with whitespace is successful.
+2023-08-07T22:11:13+00:00 fedora#02 I: End test bob tests:22:ending with whitespace.
