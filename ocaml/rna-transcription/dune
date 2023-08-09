@@ -1,5 +1,5 @@
 (executable
- (name test)
+ (name rna_transcription)
  (libraries base ounit2))
 
 (alias
