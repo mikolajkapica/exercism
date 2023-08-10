@@ -1,0 +1,479 @@
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Runner: processes
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Chooser: simple
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration suite_name = "allergies tests"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration cache_filename = "/home/mikolaj/exercism/ocaml/allergies/_build/oUnit-$(suite_name).cache"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration run_gc_full_major = "true"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration seed = "-1"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration display = "true"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration results_style_1_X = "false"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration testdata_dir = "none"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration health_check_interval = "1."
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration verbose = "false"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration chooser = "simple"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration output_html_dir = "none"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration processes_kill_period = "5."
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration runner = "processes"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration shards = "2"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration processes_grace_period = "5."
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration qcheck_verbose = "true"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration log_encoding = "utf-8"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration output_junit_file = "none"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration ci = "false"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration qcheck_long = "false"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Configuration output_file = "/home/mikolaj/exercism/ocaml/allergies/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Using 2 workers maximum.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Starting worker number WIN-9A9CNBOJ697#01.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Worker WIN-9A9CNBOJ697#01 started.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Starting worker number WIN-9A9CNBOJ697#02.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Worker WIN-9A9CNBOJ697#02 started.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:1:allergic only to eggs, allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:1:allergic only to eggs, allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:1:allergic only to eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:1:allergic only to eggs, allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:0:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:1:allergic only to eggs, allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:1:allergic only to eggs, allergies tests:0:ounit_tests:0:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:2:allergic to eggs and something else, allergies tests:0:ounit_tests:1:allergic only to eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:2:allergic to eggs and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:2:allergic to eggs and something else, allergies tests:0:ounit_tests:1:allergic only to eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:1:allergic only to eggs is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:2:allergic to eggs and something else, allergies tests:0:ounit_tests:1:allergic only to eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:1:allergic only to eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:2:allergic to eggs and something else, allergies tests:0:ounit_tests:1:allergic only to eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:3:allergic to something, but not eggs, allergies tests:0:ounit_tests:2:allergic to eggs and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:3:allergic to something, but not eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:3:allergic to something, but not eggs, allergies tests:0:ounit_tests:2:allergic to eggs and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:2:allergic to eggs and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:3:allergic to something, but not eggs, allergies tests:0:ounit_tests:2:allergic to eggs and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:2:allergic to eggs and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:3:allergic to something, but not eggs, allergies tests:0:ounit_tests:2:allergic to eggs and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:4:allergic to everything, allergies tests:0:ounit_tests:3:allergic to something, but not eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:4:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:4:allergic to everything, allergies tests:0:ounit_tests:3:allergic to something, but not eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:3:allergic to something, but not eggs is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:4:allergic to everything, allergies tests:0:ounit_tests:3:allergic to something, but not eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:3:allergic to something, but not eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:4:allergic to everything, allergies tests:0:ounit_tests:3:allergic to something, but not eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:5:not allergic to anything, allergies tests:0:ounit_tests:4:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:5:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:5:not allergic to anything, allergies tests:0:ounit_tests:4:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:4:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:5:not allergic to anything, allergies tests:0:ounit_tests:4:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:4:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:5:not allergic to anything, allergies tests:0:ounit_tests:4:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:6:allergic only to peanuts, allergies tests:0:ounit_tests:5:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:6:allergic only to peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:6:allergic only to peanuts, allergies tests:0:ounit_tests:5:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:5:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:6:allergic only to peanuts, allergies tests:0:ounit_tests:5:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:5:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:6:allergic only to peanuts, allergies tests:0:ounit_tests:5:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:7:allergic to peanuts and something else, allergies tests:0:ounit_tests:6:allergic only to peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:7:allergic to peanuts and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:7:allergic to peanuts and something else, allergies tests:0:ounit_tests:6:allergic only to peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:6:allergic only to peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:7:allergic to peanuts and something else, allergies tests:0:ounit_tests:6:allergic only to peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:6:allergic only to peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:7:allergic to peanuts and something else, allergies tests:0:ounit_tests:6:allergic only to peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:8:allergic to something, but not peanuts, allergies tests:0:ounit_tests:7:allergic to peanuts and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:8:allergic to something, but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:8:allergic to something, but not peanuts, allergies tests:0:ounit_tests:7:allergic to peanuts and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:7:allergic to peanuts and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:8:allergic to something, but not peanuts, allergies tests:0:ounit_tests:7:allergic to peanuts and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:7:allergic to peanuts and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:8:allergic to something, but not peanuts, allergies tests:0:ounit_tests:7:allergic to peanuts and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:9:allergic to everything, allergies tests:0:ounit_tests:8:allergic to something, but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:9:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:9:allergic to everything, allergies tests:0:ounit_tests:8:allergic to something, but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:8:allergic to something, but not peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:9:allergic to everything, allergies tests:0:ounit_tests:8:allergic to something, but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:8:allergic to something, but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:9:allergic to everything, allergies tests:0:ounit_tests:8:allergic to something, but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:10:not allergic to anything, allergies tests:0:ounit_tests:9:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:10:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:10:not allergic to anything, allergies tests:0:ounit_tests:9:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:9:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:10:not allergic to anything, allergies tests:0:ounit_tests:9:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:9:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:10:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:10:not allergic to anything, allergies tests:0:ounit_tests:9:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:10:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:11:allergic only to shellfish, allergies tests:0:ounit_tests:10:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:12:allergic to shellfish and something else, allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:12:allergic to shellfish and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:12:allergic to shellfish and something else, allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:12:allergic to shellfish and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:12:allergic to shellfish and something else, allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:11:allergic only to shellfish is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:12:allergic to shellfish and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:12:allergic to shellfish and something else, allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:13:allergic to something, but not shellfish, allergies tests:0:ounit_tests:11:allergic only to shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:13:allergic to something, but not shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:14:allergic to everything, allergies tests:0:ounit_tests:13:allergic to something, but not shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:14:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:14:allergic to everything, allergies tests:0:ounit_tests:13:allergic to something, but not shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:13:allergic to something, but not shellfish is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:14:allergic to everything, allergies tests:0:ounit_tests:13:allergic to something, but not shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:13:allergic to something, but not shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:14:allergic to everything, allergies tests:0:ounit_tests:13:allergic to something, but not shellfish.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:15:not allergic to anything, allergies tests:0:ounit_tests:14:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:15:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:15:not allergic to anything, allergies tests:0:ounit_tests:14:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:14:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:15:not allergic to anything, allergies tests:0:ounit_tests:14:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:14:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:15:not allergic to anything, allergies tests:0:ounit_tests:14:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:16:allergic only to strawberries, allergies tests:0:ounit_tests:15:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:16:allergic only to strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:16:allergic only to strawberries, allergies tests:0:ounit_tests:15:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:15:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:16:allergic only to strawberries, allergies tests:0:ounit_tests:15:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:15:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:16:allergic only to strawberries, allergies tests:0:ounit_tests:15:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:17:allergic to strawberries and something else, allergies tests:0:ounit_tests:16:allergic only to strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:17:allergic to strawberries and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:17:allergic to strawberries and something else, allergies tests:0:ounit_tests:16:allergic only to strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:16:allergic only to strawberries is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:17:allergic to strawberries and something else, allergies tests:0:ounit_tests:16:allergic only to strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:16:allergic only to strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:17:allergic to strawberries and something else, allergies tests:0:ounit_tests:16:allergic only to strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:18:allergic to something, but not strawberries, allergies tests:0:ounit_tests:17:allergic to strawberries and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:18:allergic to something, but not strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:18:allergic to something, but not strawberries, allergies tests:0:ounit_tests:17:allergic to strawberries and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:17:allergic to strawberries and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:18:allergic to something, but not strawberries, allergies tests:0:ounit_tests:17:allergic to strawberries and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:17:allergic to strawberries and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:18:allergic to something, but not strawberries, allergies tests:0:ounit_tests:17:allergic to strawberries and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:19:allergic to everything, allergies tests:0:ounit_tests:18:allergic to something, but not strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:19:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:19:allergic to everything, allergies tests:0:ounit_tests:18:allergic to something, but not strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:18:allergic to something, but not strawberries is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:19:allergic to everything, allergies tests:0:ounit_tests:18:allergic to something, but not strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:18:allergic to something, but not strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:19:allergic to everything, allergies tests:0:ounit_tests:18:allergic to something, but not strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:20:not allergic to anything, allergies tests:0:ounit_tests:19:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:20:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:20:not allergic to anything, allergies tests:0:ounit_tests:19:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:19:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:20:not allergic to anything, allergies tests:0:ounit_tests:19:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:19:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:20:not allergic to anything, allergies tests:0:ounit_tests:19:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:21:allergic only to tomatoes, allergies tests:0:ounit_tests:20:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:21:allergic only to tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:21:allergic only to tomatoes, allergies tests:0:ounit_tests:20:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:20:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:21:allergic only to tomatoes, allergies tests:0:ounit_tests:20:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:20:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:21:allergic only to tomatoes, allergies tests:0:ounit_tests:20:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:22:allergic to tomatoes and something else, allergies tests:0:ounit_tests:21:allergic only to tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:22:allergic to tomatoes and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:22:allergic to tomatoes and something else, allergies tests:0:ounit_tests:21:allergic only to tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:21:allergic only to tomatoes is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:22:allergic to tomatoes and something else, allergies tests:0:ounit_tests:21:allergic only to tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:21:allergic only to tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:22:allergic to tomatoes and something else, allergies tests:0:ounit_tests:21:allergic only to tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes, allergies tests:0:ounit_tests:22:allergic to tomatoes and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes, allergies tests:0:ounit_tests:22:allergic to tomatoes and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:22:allergic to tomatoes and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes, allergies tests:0:ounit_tests:22:allergic to tomatoes and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:22:allergic to tomatoes and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes, allergies tests:0:ounit_tests:22:allergic to tomatoes and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:25:not allergic to anything, allergies tests:0:ounit_tests:24:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:24:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:25:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:25:not allergic to anything, allergies tests:0:ounit_tests:24:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:24:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:25:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:25:not allergic to anything, allergies tests:0:ounit_tests:24:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:24:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:25:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:25:not allergic to anything, allergies tests:0:ounit_tests:24:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:27:allergic to chocolate and something else, allergies tests:0:ounit_tests:26:allergic only to chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:26:allergic only to chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:27:allergic to chocolate and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:27:allergic to chocolate and something else, allergies tests:0:ounit_tests:26:allergic only to chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:26:allergic only to chocolate is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:27:allergic to chocolate and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:27:allergic to chocolate and something else, allergies tests:0:ounit_tests:26:allergic only to chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:26:allergic only to chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:27:allergic to chocolate and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:27:allergic to chocolate and something else, allergies tests:0:ounit_tests:26:allergic only to chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:29:allergic to everything, allergies tests:0:ounit_tests:28:allergic to something, but not chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:28:allergic to something, but not chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:29:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:29:allergic to everything, allergies tests:0:ounit_tests:28:allergic to something, but not chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:28:allergic to something, but not chocolate is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:29:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:29:allergic to everything, allergies tests:0:ounit_tests:28:allergic to something, but not chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:28:allergic to something, but not chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:29:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:29:allergic to everything, allergies tests:0:ounit_tests:28:allergic to something, but not chocolate.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:31:allergic only to pollen, allergies tests:0:ounit_tests:30:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:30:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:31:allergic only to pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:31:allergic only to pollen, allergies tests:0:ounit_tests:30:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:30:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:31:allergic only to pollen, allergies tests:0:ounit_tests:30:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:30:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:31:allergic only to pollen is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:31:allergic only to pollen, allergies tests:0:ounit_tests:30:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:31:allergic only to pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:32:allergic to pollen and something else, allergies tests:0:ounit_tests:31:allergic only to pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:32:allergic to pollen and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:33:allergic to something, but not pollen, allergies tests:0:ounit_tests:32:allergic to pollen and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:33:allergic to something, but not pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:33:allergic to something, but not pollen, allergies tests:0:ounit_tests:32:allergic to pollen and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:32:allergic to pollen and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:33:allergic to something, but not pollen, allergies tests:0:ounit_tests:32:allergic to pollen and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:32:allergic to pollen and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:33:allergic to something, but not pollen, allergies tests:0:ounit_tests:32:allergic to pollen and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:34:allergic to everything, allergies tests:0:ounit_tests:33:allergic to something, but not pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:33:allergic to something, but not pollen is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:34:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:34:allergic to everything, allergies tests:0:ounit_tests:33:allergic to something, but not pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:33:allergic to something, but not pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:34:allergic to everything, allergies tests:0:ounit_tests:33:allergic to something, but not pollen.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:35:not allergic to anything, allergies tests:0:ounit_tests:34:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:35:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:35:not allergic to anything, allergies tests:0:ounit_tests:34:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:34:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:35:not allergic to anything, allergies tests:0:ounit_tests:34:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:34:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:35:not allergic to anything, allergies tests:0:ounit_tests:34:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:36:allergic only to cats, allergies tests:0:ounit_tests:35:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:36:allergic only to cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:36:allergic only to cats, allergies tests:0:ounit_tests:35:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:35:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:36:allergic only to cats, allergies tests:0:ounit_tests:35:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:35:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:36:allergic only to cats, allergies tests:0:ounit_tests:35:not allergic to anything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:37:allergic to cats and something else, allergies tests:0:ounit_tests:36:allergic only to cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:37:allergic to cats and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:37:allergic to cats and something else, allergies tests:0:ounit_tests:36:allergic only to cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:36:allergic only to cats is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:37:allergic to cats and something else, allergies tests:0:ounit_tests:36:allergic only to cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:36:allergic only to cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:37:allergic to cats and something else, allergies tests:0:ounit_tests:36:allergic only to cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:38:allergic to something, but not cats, allergies tests:0:ounit_tests:37:allergic to cats and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:38:allergic to something, but not cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:38:allergic to something, but not cats, allergies tests:0:ounit_tests:37:allergic to cats and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:37:allergic to cats and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:38:allergic to something, but not cats, allergies tests:0:ounit_tests:37:allergic to cats and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:37:allergic to cats and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:38:allergic to something, but not cats, allergies tests:0:ounit_tests:37:allergic to cats and something else.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:39:allergic to everything, allergies tests:0:ounit_tests:38:allergic to something, but not cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:39:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:39:allergic to everything, allergies tests:0:ounit_tests:38:allergic to something, but not cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:38:allergic to something, but not cats is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:39:allergic to everything, allergies tests:0:ounit_tests:38:allergic to something, but not cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:38:allergic to something, but not cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:39:allergic to everything, allergies tests:0:ounit_tests:38:allergic to something, but not cats.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:40:no allergies, allergies tests:0:ounit_tests:39:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:40:no allergies.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:40:no allergies, allergies tests:0:ounit_tests:39:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:39:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:40:no allergies, allergies tests:0:ounit_tests:39:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:39:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:40:no allergies, allergies tests:0:ounit_tests:39:allergic to everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:41:just eggs, allergies tests:0:ounit_tests:40:no allergies.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:41:just eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:41:just eggs, allergies tests:0:ounit_tests:40:no allergies.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:40:no allergies is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:41:just eggs, allergies tests:0:ounit_tests:40:no allergies.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:40:no allergies.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:41:just eggs, allergies tests:0:ounit_tests:40:no allergies.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:42:just peanuts, allergies tests:0:ounit_tests:41:just eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:42:just peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:42:just peanuts, allergies tests:0:ounit_tests:41:just eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:41:just eggs is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:42:just peanuts, allergies tests:0:ounit_tests:41:just eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:41:just eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:42:just peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:42:just peanuts, allergies tests:0:ounit_tests:41:just eggs.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:42:just peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:43:just strawberries, allergies tests:0:ounit_tests:42:just peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:43:just strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:44:eggs and peanuts, allergies tests:0:ounit_tests:43:just strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:44:eggs and peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:44:eggs and peanuts, allergies tests:0:ounit_tests:43:just strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:43:just strawberries is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:44:eggs and peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:44:eggs and peanuts, allergies tests:0:ounit_tests:43:just strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:43:just strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:44:eggs and peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:44:eggs and peanuts, allergies tests:0:ounit_tests:43:just strawberries.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:46:lots of stuff, allergies tests:0:ounit_tests:45:more than eggs but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:45:more than eggs but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:46:lots of stuff.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:46:lots of stuff, allergies tests:0:ounit_tests:45:more than eggs but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:45:more than eggs but not peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:46:lots of stuff, allergies tests:0:ounit_tests:45:more than eggs but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:45:more than eggs but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:46:lots of stuff is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:46:lots of stuff, allergies tests:0:ounit_tests:45:more than eggs but not peanuts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:46:lots of stuff.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:47:everything, allergies tests:0:ounit_tests:46:lots of stuff.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:47:everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:48:no allergen score parts, allergies tests:0:ounit_tests:47:everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:0:ounit_tests:48:no allergen score parts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:48:no allergen score parts, allergies tests:0:ounit_tests:47:everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:47:everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:48:no allergen score parts, allergies tests:0:ounit_tests:47:everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:47:everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:48:no allergen score parts, allergies tests:0:ounit_tests:47:everything.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score, allergies tests:0:ounit_tests:48:no allergen score parts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score, allergies tests:0:ounit_tests:48:no allergen score parts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:0:ounit_tests:48:no allergen score parts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score, allergies tests:0:ounit_tests:48:no allergen score parts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:0:ounit_tests:48:no allergen score parts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score, allergies tests:0:ounit_tests:48:no allergen score parts.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens, allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens, allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: law prop_allergic_to_single_allergens: 1000 relevant cases (1000 total)
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens, allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens, allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens, allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens, allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens, allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens, allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens, allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens, allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Start test allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens, allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: law prop_allergic_to_negative_single_allergens: 1000 relevant cases (1000 total)
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens, allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens, allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens, allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: law prop_allergies_single_allergens: 1000 relevant cases (1000 total)
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 2 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Start test allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 2 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: law prop_allergic_to_multiple_allergens: 1000 relevant cases (1000 total)
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 2 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: law prop_allergies_multiple_allergens: 1000 relevant cases (1000 total)
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: 
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 2 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: Test allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 2 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#01 I: End test allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 2 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 2 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens, allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 1 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 1 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: Test allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 1 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 1 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#02 I: End test allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Still 1 tests running : allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 1 tests running: allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: 0 tests running: .
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Worker WIN-9A9CNBOJ697#01 has ended.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Worker WIN-9A9CNBOJ697#02 has ended.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Used 2 worker during test execution.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Run 27 tests with shard WIN-9A9CNBOJ697#01.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Run 28 tests with shard WIN-9A9CNBOJ697#02.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Check health of shard WIN-9A9CNBOJ697#01, 4 times.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Check health of shard WIN-9A9CNBOJ697#02, 1 times.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: ==============
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Summary:
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:1:qcheck_tests:4:prop_allergies_multiple_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:1:qcheck_tests:2:prop_allergic_to_multiple_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:1:qcheck_tests:3:prop_allergies_single_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:1:qcheck_tests:1:prop_allergic_to_negative_single_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:1:qcheck_tests:0:prop_allergic_to_single_allergens is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:49:no allergen score parts without highest valid score is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:48:no allergen score parts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:47:everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:46:lots of stuff is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:45:more than eggs but not peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:44:eggs and peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:43:just strawberries is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:42:just peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:41:just eggs is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:40:no allergies is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:39:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:38:allergic to something, but not cats is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:37:allergic to cats and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:36:allergic only to cats is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:35:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:34:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:33:allergic to something, but not pollen is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:32:allergic to pollen and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:31:allergic only to pollen is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:30:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:29:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:28:allergic to something, but not chocolate is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:27:allergic to chocolate and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:26:allergic only to chocolate is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:25:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:24:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:23:allergic to something, but not tomatoes is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:22:allergic to tomatoes and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:21:allergic only to tomatoes is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:20:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:19:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:18:allergic to something, but not strawberries is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:17:allergic to strawberries and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:16:allergic only to strawberries is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:15:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:14:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:13:allergic to something, but not shellfish is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:11:allergic only to shellfish is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:12:allergic to shellfish and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:10:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:9:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:8:allergic to something, but not peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:7:allergic to peanuts and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:6:allergic only to peanuts is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:5:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:4:allergic to everything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:3:allergic to something, but not eggs is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:2:allergic to eggs and something else is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:1:allergic only to eggs is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Test allergies tests:0:ounit_tests:0:not allergic to anything is successful.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Ran: 55 tests in: 0.13 seconds.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Cases: 55.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Tried: 55.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Errors: 0.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Failures: 0.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Skip: 0.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Todo: 0.
+2023-08-14T22:04:43+00:00 WIN-9A9CNBOJ697#00 I: Timeout: 0.
