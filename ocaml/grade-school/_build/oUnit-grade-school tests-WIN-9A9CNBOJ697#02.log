@@ -1,0 +1,75 @@
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:1:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:1:Adding more student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:1:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:3:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:3:Roster returns an empty list if there are no students enrolled is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:3:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:5:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:5:Grade returns the students in that grade in alphabetical order is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:5:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:7:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:7:Adding a student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:7:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:10:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:10:Roster returns an empty list if there are no students enrolled is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:10:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:12:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:12:Grade returns the students in that grade in alphabetical order is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:12:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:14:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:14:Adding a student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:14:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:15:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:15:Adding more student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:15:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:18:Student names with grades are displayed in the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:18:Student names with grades are displayed in the same sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:18:Student names with grades are displayed in the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:19:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:19:Grade returns the students in that grade in alphabetical order is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:19:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:22:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:22:Adding more student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:22:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:23:Adding students to different grades adds them to the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:23:Adding students to different grades adds them to the same sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:23:Adding students to different grades adds them to the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:25:Student names with grades are displayed in the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:25:Student names with grades are displayed in the same sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:25:Student names with grades are displayed in the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:27:Grade returns an empty list if there are no students in that grade.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:27:Grade returns an empty list if there are no students in that grade is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:27:Grade returns an empty list if there are no students in that grade.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:29:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:29:Adding more student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:29:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:31:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:31:Roster returns an empty list if there are no students enrolled is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:31:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:33:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:33:Grade returns the students in that grade in alphabetical order is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:33:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:35:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:35:Adding a student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:35:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:36:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:36:Adding more student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:36:Adding more student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:38:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:38:Roster returns an empty list if there are no students enrolled is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:38:Roster returns an empty list if there are no students enrolled.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:40:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:40:Grade returns the students in that grade in alphabetical order is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:40:Grade returns the students in that grade in alphabetical order.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:42:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:42:Adding a student adds them to the sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:42:Adding a student adds them to the sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:44:Adding students to different grades adds them to the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:44:Adding students to different grades adds them to the same sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:44:Adding students to different grades adds them to the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:46:Student names with grades are displayed in the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:46:Student names with grades are displayed in the same sorted roster is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:46:Student names with grades are displayed in the same sorted roster.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Start test grade-school tests:48:Grade returns an empty list if there are no students in that grade.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: Test grade-school tests:48:Grade returns an empty list if there are no students in that grade is successful.
+2023-08-13T18:59:15+00:00 WIN-9A9CNBOJ697#02 I: End test grade-school tests:48:Grade returns an empty list if there are no students in that grade.
