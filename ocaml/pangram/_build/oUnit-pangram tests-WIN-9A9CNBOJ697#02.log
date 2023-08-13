@@ -1,0 +1,171 @@
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:1:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:1:perfect lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:1:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:3:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:3:missing the letter 'x' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:3:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:5:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:5:with underscores is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:5:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:7:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:7:missing letters replaced by numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:7:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:10:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:10:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:10:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:12:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:12:perfect lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:12:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:14:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:14:missing the letter 'x' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:14:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:16:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:16:with underscores is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:16:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:18:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:18:missing letters replaced by numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:18:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:20:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:20:case insensitive is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:20:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:23:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:23:perfect lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:23:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:25:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:25:missing the letter 'x' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:25:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:27:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:27:with underscores is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:27:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:29:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:29:missing letters replaced by numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:29:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:31:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:31:case insensitive is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:31:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:33:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:33:empty sentence is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:33:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:35:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:35:only lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:35:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:37:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:37:missing the letter 'h' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:37:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:39:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:39:with numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:39:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:42:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:42:case insensitive is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:42:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:44:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:44:empty sentence is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:44:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:46:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:46:only lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:46:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:48:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:48:missing the letter 'h' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:48:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:50:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:50:with numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:50:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:53:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:53:case insensitive is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:53:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:55:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:55:empty sentence is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:55:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:57:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:57:only lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:57:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:59:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:59:missing the letter 'h' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:59:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:61:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:61:with numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:61:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:63:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:63:mixed case and punctuation is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:63:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:65:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:65:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:65:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:67:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:67:perfect lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:67:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:70:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:70:missing the letter 'h' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:70:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:72:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:72:with numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:72:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:74:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:74:mixed case and punctuation is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:74:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:76:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:78:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:78:perfect lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:78:perfect lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:80:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:80:missing the letter 'x' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:80:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:82:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:82:with underscores is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:82:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:84:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:84:missing letters replaced by numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:84:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:86:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:86:case insensitive is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:86:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:88:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:88:empty sentence is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:88:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:91:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:91:missing the letter 'x' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:91:missing the letter 'x'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:93:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:93:with underscores is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:93:with underscores.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:95:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:95:missing letters replaced by numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:95:missing letters replaced by numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:97:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:97:case insensitive is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:97:case insensitive.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:99:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:99:empty sentence is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:99:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:101:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:101:only lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:101:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:103:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:103:missing the letter 'h' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:103:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:105:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:105:with numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:105:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:107:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:107:mixed case and punctuation is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:107:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:110:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:110:empty sentence is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:110:empty sentence.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:112:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:112:only lower case is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:112:only lower case.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:114:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:114:missing the letter 'h' is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:114:missing the letter 'h'.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:116:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:116:with numbers is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:116:with numbers.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:118:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:118:mixed case and punctuation is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:118:mixed case and punctuation.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Start test pangram tests:120:a-m and A-M are 26 different characters but not a pangram.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: Test pangram tests:120:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-08-13T22:13:35+00:00 WIN-9A9CNBOJ697#02 I: End test pangram tests:120:a-m and A-M are 26 different characters but not a pangram.
