@@ -1,0 +1,27 @@
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:1:any side is unequal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:1:any side is unequal is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:1:any side is unequal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:3:all zero sides is not a triangle.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:3:all zero sides is not a triangle is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:3:all zero sides is not a triangle.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:5:first two sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:5:first two sides are equal is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:5:first two sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:7:equilateral triangles are also isosceles.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:7:equilateral triangles are also isosceles is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:7:equilateral triangles are also isosceles.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:9:first triangle inequality violation.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:9:first triangle inequality violation is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:9:first triangle inequality violation.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:12:no sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:12:no sides are equal is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:12:no sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:14:first and second sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:14:first and second sides are equal is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:14:first and second sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:15:first and third sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:15:first and third sides are equal is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:15:first and third sides are equal.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Start test triangle tests:17:may not violate triangle inequality.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: Test triangle tests:17:may not violate triangle inequality is successful.
+2023-08-13T23:28:11+00:00 WIN-9A9CNBOJ697#02 I: End test triangle tests:17:may not violate triangle inequality.
