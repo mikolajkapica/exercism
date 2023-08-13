@@ -1,1 +1,1 @@
-grade_school.ml: Base Int List Map Option String
+grade_school.ml: Base Fn Int List Map Poly
