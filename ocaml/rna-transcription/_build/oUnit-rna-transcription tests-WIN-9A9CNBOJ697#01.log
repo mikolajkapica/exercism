@@ -1,0 +1,9 @@
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: Start test rna-transcription tests:0:transcribes empty list.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: Test rna-transcription tests:0:transcribes empty list is successful.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: End test rna-transcription tests:0:transcribes empty list.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: Start test rna-transcription tests:2:transcribes guanosine.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: Test rna-transcription tests:2:transcribes guanosine is successful.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: End test rna-transcription tests:2:transcribes guanosine.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: Start test rna-transcription tests:4:transcribes thymidine.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: Test rna-transcription tests:4:transcribes thymidine is successful.
+2023-08-13T22:55:28+00:00 WIN-9A9CNBOJ697#01 I: End test rna-transcription tests:4:transcribes thymidine.
