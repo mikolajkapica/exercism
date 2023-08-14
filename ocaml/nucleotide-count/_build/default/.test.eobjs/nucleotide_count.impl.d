@@ -1,1 +1,1 @@
-nucleotide_count.ml: Base Char Map String
+nucleotide_count.ml: Base Char Map Option String
