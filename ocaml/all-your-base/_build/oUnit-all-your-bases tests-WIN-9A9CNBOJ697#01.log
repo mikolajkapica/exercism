@@ -1,0 +1,36 @@
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:0:single bit one to decimal.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:0:single bit one to decimal is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:0:single bit one to decimal.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:2:single decimal to binary.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:2:single decimal to binary is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:2:single decimal to binary.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:4:decimal to binary.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:4:decimal to binary is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:4:decimal to binary.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:6:hexadecimal to trinary.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:6:hexadecimal to trinary is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:6:hexadecimal to trinary.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:8:empty list.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:8:empty list is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:8:empty list.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:10:multiple zeros.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:10:multiple zeros is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:10:multiple zeros.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:11:leading zeros.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:11:leading zeros is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:11:leading zeros.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:13:input base is zero.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:13:input base is zero is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:13:input base is zero.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:15:negative digit.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:15:negative digit is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:15:negative digit.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:17:output base is one.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:17:output base is one is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:17:output base is one.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:19:output base is negative.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:19:output base is negative is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:19:output base is negative.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Start test all-your-bases tests:20:both bases are negative.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: Test all-your-bases tests:20:both bases are negative is successful.
+2023-08-14T23:59:47+00:00 WIN-9A9CNBOJ697#01 I: End test all-your-bases tests:20:both bases are negative.
