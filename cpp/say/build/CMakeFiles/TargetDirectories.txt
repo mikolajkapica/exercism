@@ -1,0 +1,4 @@
+/home/mikolaj/exercism/cpp/say/build/CMakeFiles/say.dir
+/home/mikolaj/exercism/cpp/say/build/CMakeFiles/test_say.dir
+/home/mikolaj/exercism/cpp/say/build/CMakeFiles/edit_cache.dir
+/home/mikolaj/exercism/cpp/say/build/CMakeFiles/rebuild_cache.dir

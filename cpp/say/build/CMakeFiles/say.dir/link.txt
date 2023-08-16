@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/say.dir/say_test.cpp.o CMakeFiles/say.dir/say.cpp.o "CMakeFiles/say.dir/test/tests-main.cpp.o" -o say 
