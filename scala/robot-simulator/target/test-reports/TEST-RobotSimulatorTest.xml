@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="mikolaj-Legion-5-15IAH7" name="RobotSimulatorTest" tests="20" errors="0" failures="0" skipped="19" time="0.032" timestamp="2023-08-26T11:58:38">
+          <properties>
+      <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value=""/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://ubuntu.com/"/><property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/><property name="sun.java.command" value="/home/mikolaj/.cache/sbt/boot/sbt-launch/1.9.3/sbt-launch-1.9.3.jar test -deprecation"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2023-07-18"/><property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.20+8-post-Ubuntu-1ubuntu122.04"/><property name="user.name" value="mikolaj"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/home/mikolaj/.cache/JNA/temp/jna375951252091384741.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/tmp"/><property name="java.version" value="11.0.20"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="sun.os.patch.level" value="unknown"/><property name="java.library.path" value="/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/><property name="java.vendor" value="Ubuntu"/><property name="java.specification.maintenance.version" value="2"/><property name="scala.ext.dirs" value="/home/mikolaj/.sbt/1.0/java9-rt-ext-ubuntu_11_0_20"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.desktop" value="gnome"/><property name="java.class.path" value="/home/mikolaj/.cache/sbt/boot/sbt-launch/1.9.3/sbt-launch-1.9.3.jar"/><property name="java.vm.vendor" value="Ubuntu"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Europe/Warsaw"/><property name="os.name" value="Linux"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/home/mikolaj"/><property name="user.language" value="en"/><property name="sbt.script" value="/usr/bin/sbt"/><property name="sbt.ipcsocket.tmpdir" value="/run/user/1000/.sbt3e08df07/ipcsocket"/><property name="swoval.tmpdir" value="/run/user/1000/.sbt3e08df07/swoval"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="6.2.0-26-generic"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib:/usr/lib/x86_64-linux-gnu/libfakeroot"/><property name="java.vendor.url.bug" value="https://bugs.launchpad.net/ubuntu/+source/openjdk-lts"/><property name="user.dir" value="/home/mikolaj/exercism/scala/robot-simulator"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="11.0.20+8-post-Ubuntu-1ubuntu122.04"/><property name="java.class.version" value="55.0"/>
+    </properties>
+          <testcase classname="RobotSimulatorTest" name="A robot is created with a position and a direction - Robots are created with a position and direction" time="0.026">
+                      
+                    </testcase><testcase classname="RobotSimulatorTest" name="A robot is created with a position and a direction - Negative positions are allowed" time="0.001">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees clockwise - does not change the position" time="0.001">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees clockwise - changes the direction from north to east" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees clockwise - changes the direction from east to south" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees clockwise - changes the direction from south to west" time="0.001">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees clockwise - changes the direction from west to north" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees counter-clockwise - does not change the position" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees counter-clockwise - changes the direction from north to west" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees counter-clockwise - changes the direction from west to south" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees counter-clockwise - changes the direction from south to east" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="rotates the robot's direction 90 degrees counter-clockwise - changes the direction from east to north" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="moves the robot forward 1 space in the direction it is pointing - does not change the direction" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="moves the robot forward 1 space in the direction it is pointing - increases the y coordinate one when facing north" time="0.001">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="moves the robot forward 1 space in the direction it is pointing - decreases the y coordinate by one when facing south" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="moves the robot forward 1 space in the direction it is pointing - increases the x coordinate by one when facing east" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="moves the robot forward 1 space in the direction it is pointing - decreases the x coordinate by one when facing west" time="0.001">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="Where R = Turn Right, L = Turn Left and A = Advance, the robot can follow a series of instructions and end up with the correct position and direction - instructions to move west and north" time="0.0">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="Where R = Turn Right, L = Turn Left and A = Advance, the robot can follow a series of instructions and end up with the correct position and direction - instructions to move west and south" time="0.001">
+                      <skipped/>
+                    </testcase><testcase classname="RobotSimulatorTest" name="Where R = Turn Right, L = Turn Left and A = Advance, the robot can follow a series of instructions and end up with the correct position and direction - instructions to move east and north" time="0.0">
+                      <skipped/>
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>

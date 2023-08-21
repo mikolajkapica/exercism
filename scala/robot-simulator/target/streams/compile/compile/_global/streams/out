@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mikolaj/exercism/scala/robot-simulator/src/main/scala/Robot.scala:25:37: not found: value b[0m
+[0m[[0m[31merror[0m] [0m[0m    case Bearing.North => new Robot(b, (coordinates._1, coordinates._2 + 1))[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mikolaj/exercism/scala/robot-simulator/src/main/scala/Robot.scala:26:36: not found: value b[0m
+[0m[[0m[31merror[0m] [0m[0m    case Bearing.East => new Robot(b, (coordinates._1 + 1, coordinates._2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mikolaj/exercism/scala/robot-simulator/src/main/scala/Robot.scala:27:37: not found: value b[0m
+[0m[[0m[31merror[0m] [0m[0m    case Bearing.South => new Robot(b, (coordinates._1, coordinates._2 - 1))[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mikolaj/exercism/scala/robot-simulator/src/main/scala/Robot.scala:28:36: not found: value b[0m
+[0m[[0m[31merror[0m] [0m[0m    case Bearing.West => new Robot(b, (coordinates._1 - 1, coordinates._2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
