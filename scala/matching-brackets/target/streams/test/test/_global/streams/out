@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MatchingBracketsTest, org.scalatest.tools.Framework$$anon$1@38f00675, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatchingBracketsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- paired square brackets[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- empty string (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- unpaired brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- wrong ordered brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- wrong closing bracket (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- paired with whitespace (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- partially paired brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- simple nested brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- several paired brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- paired and nested brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- unopened closing brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- unpaired and nested brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- paired and wrong nested brackets (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- math expression (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- complex latex expression (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 194 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 14[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatchingBracketsTest[0m

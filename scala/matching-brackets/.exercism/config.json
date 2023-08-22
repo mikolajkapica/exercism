@@ -1,0 +1,26 @@
+{
+  "blurb": "Make sure the brackets and braces all match.",
+  "authors": [
+    "ricemery"
+  ],
+  "contributors": [
+    "ErikSchierboom",
+    "ppartarr",
+    "rajeshpg"
+  ],
+  "files": {
+    "solution": [
+      "src/main/scala/MatchingBrackets.scala"
+    ],
+    "test": [
+      "src/test/scala/MatchingBracketsTest.scala"
+    ],
+    "example": [
+      ".meta/Example.scala"
+    ],
+    "invalidator": [
+      "build.sbt"
+    ]
+  },
+  "source": "Ginna Baker"
+}
