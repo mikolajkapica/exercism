@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SpiralMatrixTest, org.scalatest.tools.Framework$$anon$1@683ccad7, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSpiralMatrixTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- empty spiral[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- trivial spiral (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- spiral of size 2 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- spiral of size 3 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- spiral of size 4 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- spiral of size 5 (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 205 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpiralMatrixTest[0m

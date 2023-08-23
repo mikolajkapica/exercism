@@ -1,0 +1,4 @@
+[debug] [spiral-matrix] Classpath dependencies List()
+[debug] [spiral-matrix] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'spiral-matrix' to '/home/mikolaj/exercism/scala/spiral-matrix/.bloop/spiral-matrix.json'
+[success] Generated .bloop/spiral-matrix.json

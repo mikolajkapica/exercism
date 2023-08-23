@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mikolaj/exercism/scala/spiral-matrix/src/main/scala/SpiralMatrix.scala:47:27: recursive value direction needs type[0m
+[0m[[0m[31merror[0m] [0m[0m          val direction = direction match {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
